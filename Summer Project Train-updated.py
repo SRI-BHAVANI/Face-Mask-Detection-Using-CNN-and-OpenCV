@@ -29,7 +29,7 @@ TestData="./Face Mask Dataset/Test"
 # In[27]:
 
 
-ts=(32,32)
+ts=(64,64)
 bs=32
 
 
